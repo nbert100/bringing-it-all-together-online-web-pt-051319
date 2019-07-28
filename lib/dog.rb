@@ -68,4 +68,6 @@ class Dog
       dog = self.create(hash)
     end
   end
+  
+  
 end
