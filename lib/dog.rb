@@ -49,4 +49,6 @@ class Dog
     dog.id = row[0]
     dog
   end
+  
+  
 end
