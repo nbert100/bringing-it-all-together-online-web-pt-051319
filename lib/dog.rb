@@ -67,5 +67,5 @@ class Dog
       hash[:breed] =dog[2]
       dog = self.create(hash)
     end
-end
+  end
 end
